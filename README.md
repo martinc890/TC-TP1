@@ -6,12 +6,12 @@ En este Repositorio se encuentran los 3 archivos desarrollados con **JFLAP**:
    Un autómata simple que verifica si la cantidad de `1` en una cadena es **par** o **impar**.  
    Sirve como ejemplo básico para mostrar el funcionamiento del simulador JFLAP.
 
-2. **Autómata Infinito (más complejo)**  
+2. **Autómata Infinito**  
    Un autómata que reconoce cadenas de un lenguaje más completo, como por ejemplo aquellas que siguen el patrón de tipo `a^n b^n` o cadenas con estructuras más elaboradas.  
    Diseñado para demostrar el uso de más estados, transiciones no triviales y ciclos.
 
 3. **Máquina de Turing**  
-   Una máquina de Turing que reconoce **palíndromos** formados por los símbolos `a` y `b`.  
+   Una máquina de Turing que reconoce **palíndromos** formados por los símbolos `0` y `1`.  
    Implementada para mostrar cómo se pueden resolver problemas no regulares mediante máquinas de Turing en JFLAP.
 
 ## 🛠️ Requisitos
